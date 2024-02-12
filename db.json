@@ -1,0 +1,1065 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "Ashok",
+      "age": "23",
+      "action": true,
+      "status": "Out",
+      "logInDate": "2/12/2024",
+      "arrem": [
+        {
+          "logInDate": "2/1/2024",
+          "logDetails": [
+            {
+              "logInTime": "11:09:35 AM",
+              "logOutTime": "11:10:09 AM"
+            },
+            {
+              "logInTime": "11:13:36 AM",
+              "logOutTime": "11:14:51 AM"
+            },
+            {
+              "logInTime": "11:16:59 AM",
+              "logOutTime": "12:15:11 PM"
+            },
+            {
+              "logInTime": "12:17:19 PM",
+              "logOutTime": "2:16:48 PM"
+            },
+            {
+              "logInTime": "2:17:03 PM",
+              "logOutTime": "2:56:29 PM"
+            },
+            {
+              "logInTime": "2:58:58 PM",
+              "logOutTime": "3:07:45 PM"
+            },
+            {
+              "logInTime": "3:08:02 PM",
+              "logOutTime": "5:15:00 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/2/2024",
+          "logDetails": [
+            {
+              "logInTime": "12:20:02 PM",
+              "logOutTime": "12:21:46 PM"
+            },
+            {
+              "logInTime": "12:23:50 PM",
+              "logOutTime": "12:26:01 PM"
+            },
+            {
+              "logInTime": "12:30:36 PM",
+              "logOutTime": "12:31:59 PM"
+            },
+            {
+              "logInTime": "12:36:02 PM",
+              "logOutTime": "12:37:25 PM"
+            },
+            {
+              "logInTime": "12:50:17 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/3/2024",
+          "logDetails": [
+            {
+              "logInTime": "12:51:30 PM",
+              "logOutTime": "12:52:10 PM"
+            },
+            {
+              "logInTime": "12:58:41 PM",
+              "logOutTime": "9:39:20 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/5/2024",
+          "logDetails": [
+            {
+              "logInTime": "9:40:17 AM",
+              "logOutTime": "9:41:25 AM"
+            },
+            {
+              "logInTime": "9:42:07 AM",
+              "logOutTime": "9:44:07 AM"
+            },
+            {
+              "logInTime": "9:46:23 AM",
+              "logOutTime": "10:24:51 AM"
+            },
+            {
+              "logInTime": "10:26:09 AM",
+              "logOutTime": "10:28:09 AM"
+            },
+            {
+              "logInTime": "10:34:32 AM",
+              "logOutTime": "10:36:33 AM"
+            },
+            {
+              "logInTime": "10:37:37 AM",
+              "logOutTime": "10:38:16 AM"
+            },
+            {
+              "logInTime": "10:40:55 AM",
+              "logOutTime": "10:42:15 AM"
+            },
+            {
+              "logInTime": "10:47:29 AM",
+              "logOutTime": "10:49:20 AM"
+            },
+            {
+              "logInTime": "10:53:02 AM",
+              "logOutTime": "11:01:20 AM"
+            },
+            {
+              "logInTime": "12:41:27 PM",
+              "logOutTime": "12:44:09 PM"
+            },
+            {
+              "logInTime": "1:17:26 PM",
+              "logOutTime": "1:19:53 PM"
+            },
+            {
+              "logInTime": "1:20:02 PM",
+              "logOutTime": "9:16:09 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/6/2024",
+          "logDetails": [
+            {
+              "logInTime": "9:17:01 AM",
+              "logOutTime": "9:22:08 AM"
+            },
+            {
+              "logInTime": "9:50:30 AM",
+              "logOutTime": "1:14:52 PM"
+            },
+            {
+              "logInTime": "1:15:02 PM",
+              "logOutTime": "5:00:06 PM"
+            },
+            {
+              "logInTime": "5:01:02 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/6/2024",
+          "logDetails": [
+            {
+              "logOutTime": "10:27:38 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/7/2024",
+          "logDetails": [
+            {
+              "logInTime": "10:28:26 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/7/2024",
+          "logDetails": [
+            {
+              "logOutTime": "9:30:06 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/8/2024",
+          "logDetails": [
+            {
+              "logInTime": "9:31:56 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/8/2024",
+          "logDetails": [
+            {
+              "logOutTime": "2:50:23 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/8/2024",
+          "logDetails": [
+            {
+              "logInTime": "3:16:24 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/8/2024",
+          "logDetails": [
+            {
+              "logOutTime": "3:17:12 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/8/2024",
+          "logDetails": [
+            {
+              "logInTime": "3:18:50 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/8/2024",
+          "logDetails": [
+            {
+              "logOutTime": "5:08:41 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/8/2024",
+          "logDetails": [
+            {
+              "logInTime": "5:09:08 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/8/2024",
+          "logDetails": [
+            {
+              "logOutTime": "10:58:23 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/9/2024",
+          "logDetails": [
+            {
+              "logInTime": "10:58:37 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/9/2024",
+          "logDetails": [
+            {
+              "logOutTime": "12:40:03 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "10:00:37 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "10:01:02 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "10:02:49 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "11:06:36 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "11:07:02 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "11:08:05 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "11:08:11 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "11:10:49 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "11:21:20 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "11:31:12 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "11:32:13 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "5:15:34 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "5:16:26 PM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Eniyavan",
+      "age": "25",
+      "action": true,
+      "status": "Out",
+      "logInDate": "2/12/2024",
+      "arrem": [
+        {
+          "logInDate": "2/1/2024",
+          "logDetails": [
+            {
+              "logInTime": "11:09:38 AM",
+              "logOutTime": "11:10:11 AM"
+            },
+            {
+              "logInTime": "11:13:41 AM",
+              "logOutTime": "11:14:52 AM"
+            },
+            {
+              "logInTime": "11:16:57 AM",
+              "logOutTime": "12:15:14 PM"
+            },
+            {
+              "logInTime": "12:17:21 PM",
+              "logOutTime": "2:57:11 PM"
+            },
+            {
+              "logInTime": "2:59:00 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/2/2024",
+          "logDetails": [
+            {
+              "logInTime": "12:20:03 PM",
+              "logOutTime": "12:21:47 PM"
+            },
+            {
+              "logInTime": "12:26:00 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/2/2024",
+          "logDetails": [
+            {
+              "logOutTime": "12:32:01 PM"
+            },
+            {
+              "logInTime": "12:35:36 PM",
+              "logOutTime": "12:36:05 PM"
+            },
+            {
+              "logInTime": "12:37:26 PM"
+            },
+            {
+              "logOutTime": "12:50:17 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/3/2024",
+          "logDetails": [
+            {
+              "logInTime": "12:51:31 PM",
+              "logOutTime": "12:52:12 PM"
+            },
+            {
+              "logInTime": "12:58:42 PM",
+              "logOutTime": "9:39:22 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/5/2024",
+          "logDetails": [
+            {
+              "logInTime": "9:40:19 AM",
+              "logOutTime": "9:41:27 AM"
+            },
+            {
+              "logInTime": "9:42:08 AM",
+              "logOutTime": "9:44:08 AM"
+            },
+            {
+              "logInTime": "9:46:24 AM",
+              "logOutTime": "9:47:07 AM"
+            },
+            {
+              "logInTime": "10:28:10 AM",
+              "logOutTime": "10:34:34 AM"
+            },
+            {
+              "logInTime": "10:35:53 AM",
+              "logOutTime": "10:36:34 AM"
+            },
+            {
+              "logInTime": "10:37:38 AM",
+              "logOutTime": "10:38:17 AM"
+            },
+            {
+              "logInTime": "10:40:56 AM",
+              "logOutTime": "10:42:16 AM"
+            },
+            {
+              "logInTime": "10:47:30 AM",
+              "logOutTime": "10:49:22 AM"
+            },
+            {
+              "logInTime": "10:53:03 AM",
+              "logOutTime": "11:01:23 AM"
+            },
+            {
+              "logInTime": "12:41:28 PM",
+              "logOutTime": "12:44:10 PM"
+            },
+            {
+              "logInTime": "1:17:27 PM",
+              "logOutTime": "1:19:54 PM"
+            },
+            {
+              "logInTime": "1:20:03 PM",
+              "logOutTime": "9:16:10 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/6/2024",
+          "logDetails": [
+            {
+              "logInTime": "9:17:02 AM",
+              "logOutTime": "9:22:09 AM"
+            },
+            {
+              "logInTime": "9:50:31 AM",
+              "logOutTime": "1:14:53 PM"
+            },
+            {
+              "logInTime": "1:15:03 PM",
+              "logOutTime": "5:00:07 PM"
+            },
+            {
+              "logInTime": "5:01:03 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/6/2024",
+          "logDetails": [
+            {
+              "logOutTime": "10:27:39 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/7/2024",
+          "logDetails": [
+            {
+              "logInTime": "10:28:27 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/7/2024",
+          "logDetails": [
+            {
+              "logOutTime": "1:14:29 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/7/2024",
+          "logDetails": [
+            {
+              "logInTime": "1:23:34 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/7/2024",
+          "logDetails": [
+            {
+              "logOutTime": "9:30:07 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/8/2024",
+          "logDetails": [
+            {
+              "logInTime": "9:31:57 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/8/2024",
+          "logDetails": [
+            {
+              "logOutTime": "3:16:25 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/8/2024",
+          "logDetails": [
+            {
+              "logInTime": "3:17:13 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/8/2024",
+          "logDetails": [
+            {
+              "logOutTime": "10:58:31 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/9/2024",
+          "logDetails": [
+            {
+              "logInTime": "10:59:33 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/9/2024",
+          "logDetails": [
+            {
+              "logOutTime": "9:59:34 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "10:00:38 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "10:01:02 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "10:02:49 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "11:06:40 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "11:07:04 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "11:10:53 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "11:11:03 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "11:20:33 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "11:21:21 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "11:31:14 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "11:55:24 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "5:15:35 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "5:16:28 PM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Messi",
+      "age": "22",
+      "action": true,
+      "status": "Out",
+      "logInDate": "2/12/2024",
+      "arrem": [
+        {
+          "logInDate": "2/1/2024",
+          "logDetails": [
+            {
+              "logInTime": "11:09:40 AM",
+              "logOutTime": "11:10:13 AM"
+            },
+            {
+              "logInTime": "11:13:43 AM",
+              "logOutTime": "11:14:54 AM"
+            },
+            {
+              "logInTime": "11:16:58 AM",
+              "logOutTime": "12:15:15 PM"
+            },
+            {
+              "logInTime": "12:17:22 PM",
+              "logOutTime": "2:57:12 PM"
+            },
+            {
+              "logInTime": "2:59:01 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/2/2024",
+          "logDetails": [
+            {
+              "logInTime": "12:20:04 PM",
+              "logOutTime": "12:21:49 PM"
+            },
+            {
+              "logInTime": "12:26:02 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/2/2024",
+          "logDetails": [
+            {
+              "logOutTime": "12:32:02 PM"
+            },
+            {
+              "logInTime": "12:35:37 PM",
+              "logOutTime": "12:36:07 PM"
+            },
+            {
+              "logInTime": "12:37:27 PM"
+            },
+            {
+              "logOutTime": "12:50:18 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/3/2024",
+          "logDetails": [
+            {
+              "logInTime": "12:51:32 PM",
+              "logOutTime": "12:52:13 PM"
+            },
+            {
+              "logInTime": "12:58:43 PM",
+              "logOutTime": "9:39:23 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/5/2024",
+          "logDetails": [
+            {
+              "logInTime": "9:40:20 AM",
+              "logOutTime": "9:41:28 AM"
+            },
+            {
+              "logInTime": "9:42:09 AM",
+              "logOutTime": "9:44:09 AM"
+            },
+            {
+              "logInTime": "9:46:25 AM",
+              "logOutTime": "9:47:09 AM"
+            },
+            {
+              "logInTime": "10:28:11 AM",
+              "logOutTime": "10:34:35 AM"
+            },
+            {
+              "logInTime": "10:35:54 AM",
+              "logOutTime": "10:36:35 AM"
+            },
+            {
+              "logInTime": "10:37:39 AM",
+              "logOutTime": "10:38:18 AM"
+            },
+            {
+              "logInTime": "10:40:57 AM",
+              "logOutTime": "10:42:17 AM"
+            },
+            {
+              "logInTime": "10:47:31 AM",
+              "logOutTime": "10:49:23 AM"
+            },
+            {
+              "logInTime": "10:53:04 AM",
+              "logOutTime": "11:01:24 AM"
+            },
+            {
+              "logInTime": "12:41:29 PM",
+              "logOutTime": "12:44:11 PM"
+            },
+            {
+              "logInTime": "1:17:28 PM",
+              "logOutTime": "1:19:55 PM"
+            },
+            {
+              "logInTime": "1:20:04 PM",
+              "logOutTime": "9:16:11 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/6/2024",
+          "logDetails": [
+            {
+              "logInTime": "9:17:03 AM",
+              "logOutTime": "9:22:10 AM"
+            },
+            {
+              "logInTime": "9:50:32 AM",
+              "logOutTime": "1:14:54 PM"
+            },
+            {
+              "logInTime": "1:15:04 PM",
+              "logOutTime": "5:00:08 PM"
+            },
+            {
+              "logInTime": "5:01:04 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/6/2024",
+          "logDetails": [
+            {
+              "logOutTime": "10:27:40 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/7/2024",
+          "logDetails": [
+            {
+              "logInTime": "10:28:28 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/7/2024",
+          "logDetails": [
+            {
+              "logOutTime": "1:14:09 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/7/2024",
+          "logDetails": [
+            {
+              "logInTime": "1:23:36 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/7/2024",
+          "logDetails": [
+            {
+              "logOutTime": "9:30:08 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/8/2024",
+          "logDetails": [
+            {
+              "logInTime": "9:31:58 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/8/2024",
+          "logDetails": [
+            {
+              "logOutTime": "3:16:26 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/8/2024",
+          "logDetails": [
+            {
+              "logInTime": "3:17:13 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/8/2024",
+          "logDetails": [
+            {
+              "logOutTime": "10:58:31 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/9/2024",
+          "logDetails": [
+            {
+              "logInTime": "10:59:34 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/9/2024",
+          "logDetails": [
+            {
+              "logOutTime": "9:59:34 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "10:00:39 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "10:01:03 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "10:02:50 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "11:06:41 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "11:07:06 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "11:10:55 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "11:11:04 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "11:20:34 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "11:21:22 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "11:31:16 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "11:59:11 AM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "12:24:44 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "12:25:03 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logOutTime": "5:15:31 PM"
+            }
+          ]
+        },
+        {
+          "logInDate": "2/12/2024",
+          "logDetails": [
+            {
+              "logInTime": "5:16:29 PM"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
